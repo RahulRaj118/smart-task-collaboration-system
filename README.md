@@ -26,6 +26,11 @@ A Spring Boot backend application designed to manage tasks and enable team colla
 - config – application configuration
 
 ## How to Run
-1. Clone the repository
-2. Configure database credentials in `application.properties`
-3. Run the application using:
+### Prerequisites
+- Java 21 installed
+- MySQL installed and running
+- Maven (optional, Maven Wrapper is included)
+
+### Steps to Run the Project
+1. Clone the repository:
+   git clone https://github.com/RahulRaj118/smart-task-collaboration-system.git
