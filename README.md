@@ -34,3 +34,5 @@ A Spring Boot backend application designed to manage tasks and enable team colla
 ### Steps to Run the Project
 1. Clone the repository:
    git clone https://github.com/RahulRaj118/smart-task-collaboration-system.git
+## Note
+This project is created for learning  purposes.
